@@ -31,8 +31,15 @@ We use this categorical data encoding technique when the features are nominal(do
 • Yeojohnson method
 
 # CODING AND OUTPUT:
+![image](https://github.com/Saiguruchandran/EXNO-3-DS/assets/144870946/204b296c-76be-459d-babe-6b73fcc535f5)
+![image](https://github.com/Saiguruchandran/EXNO-3-DS/assets/144870946/7ac7408e-2dc4-499c-8187-4d86d819b1cf)
+![image](https://github.com/Saiguruchandran/EXNO-3-DS/assets/144870946/284f46cf-5efb-4d37-b595-adc8a79f61bd)
+![image](https://github.com/Saiguruchandran/EXNO-3-DS/assets/144870946/a4df4103-25ca-41f2-ab91-dcd0b707205f)
+![image](https://github.com/Saiguruchandran/EXNO-3-DS/assets/144870946/ec7e4846-b76c-4e3a-9615-99879300a318)
+![image](https://github.com/Saiguruchandran/EXNO-3-DS/assets/144870946/43f14f80-2328-4713-b055-41e9abbf625b)
+
       
 # RESULT:
-       
+  hence performing feature encoding and transformation process is successfully executed     
 
        
